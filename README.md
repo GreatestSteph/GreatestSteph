@@ -8,7 +8,7 @@ Sou desenvolvedora desde 2022, crio projetos de frontend, backend e embarcados! 
 
 ---
 
-### Tecnologias 
+### Tecnologias:
 
 Linguagens mais usadas em meus projetos:
 
