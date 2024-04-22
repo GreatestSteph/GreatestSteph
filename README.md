@@ -1,4 +1,3 @@
-# Olá! Eu sou Stephanie!
 ### Bem-vindo(a) em meu GitHub! 👋
 Sou desenvolvedora desde 2022, crio projetos de frontend, backend e embarcados! :heart:
 
