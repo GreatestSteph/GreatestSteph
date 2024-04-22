@@ -39,8 +39,6 @@ Sou desenvolvedora desde 2022, crio projetos de frontend, backend e embarcados! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephanie-thawane-cavalcante-madia-913150251/)
 [![Portfolio](https://img.shields.io/badge/Dio.me-330F63?style=for-the-badge&logoColor=white)](https://www.dio.me/users/tatazinha_madia)
 
-<br>
-
 ---
 
 ### Contato:
