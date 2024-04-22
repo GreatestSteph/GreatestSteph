@@ -4,15 +4,15 @@ Sou desenvolvedora desde 2022, crio projetos de frontend, backend e embarcados! 
 
 
 
-![Meu Status](https://github-readme-stats.vercel.app/api?username=GreatestSteph&show_icons=true&bg_color=00000000))
+![Meu Status](https://github-readme-stats.vercel.app/api?username=GreatestSteph&show_icons=true&bg_color=00000000))<br><br>
 
 ---
 
 ### Tecnologias:
 
-Linguagens mais usadas em meus projetos:
+#### Linguagens mais usadas em meus projetos:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreatestSteph&layout=compact&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreatestSteph&layout=compact&bg_color=00000000)<br>
 
 #### Tecnologias que tenho conhecimento:
 
