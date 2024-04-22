@@ -2,19 +2,7 @@
 ### Bem-vindo(a) em meu GitHub! 👋
 Sou desenvolvedora desde 2022, crio projetos de frontend, backend e embarcados! :heart:
 
-Minhas mídias sociais:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephanie-thawane-cavalcante-madia-913150251/)
-[![Portfolio](https://img.shields.io/badge/Dio.me-330F63?style=for-the-badge&logoColor=white)](https://www.dio.me/users/tatazinha_madia)
-
- Contato:
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:tatazinha_madia@hotmail.com)
-
-
----
-
-### Meu status:
 
 ![Meu Status](https://github-readme-stats.vercel.app/api?username=GreatestSteph&show_icons=true&bg_color=00000000))
 
@@ -43,7 +31,25 @@ Linguagens mais usadas em meus projetos:
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <br><br>
+
+
+---
+
+### Mídias sociais:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephanie-thawane-cavalcante-madia-913150251/)
+[![Portfolio](https://img.shields.io/badge/Dio.me-330F63?style=for-the-badge&logoColor=white)](https://www.dio.me/users/tatazinha_madia)
+
+<br>
+
+---
+
+### Contato:
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:tatazinha_madia@hotmail.com)
+
+
 
 
 
