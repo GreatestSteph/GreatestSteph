@@ -1,5 +1,5 @@
 ### Bem-vindo(a) em meu GitHub! 👋
-Sou desenvolvedora desde 2022, crio projetos de frontend, backend e embarcados! :heart:
+Sou desenvolvedora desde 2023, crio projetos de frontend e backend! :heart:
 
 
 
