@@ -1,5 +1,5 @@
 ### Welcome to my GitHub! 👋
-I am a junior Software Engineer, just finished school! :heart:
+I am a junior Software Engineer, just finished studies! :heart:
 
 
 
